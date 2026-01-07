@@ -17,10 +17,10 @@ I am a **Bachelor of Applied Science** graduate from **Politeknik Elektronika Ne
 
 ### 💻 Web & Software Development
 * **AlignMe (In Progress):** A personal productivity hub featuring daily logs, to-do lists, and an integrated portfolio, built to master PostgreSQL and back-end logic.
+* **InvestWise:** A modern, responsive web application designed to help users make smarter financial decisions using the SMART Method.
 
 ### 🎮 Game Development
-* **Project Nevernight:** A 2D narrative puzzle game featuring complex branching dialogue logic and character attribute systems.
-  [View on Itch.io](https://zzero-hour.itch.io)
+* **Project Nevernight (In Progress):** A 2D narrative puzzle game featuring complex branching dialogue logic and puzzle systems. [View on Itch.io](https://zzero-hour.itch.io)
 
 ## 📈 Leadership & Impact
 * **Project Manager:** Led a team of 20+ members to deliver government-funded research projects with 100% completion.
