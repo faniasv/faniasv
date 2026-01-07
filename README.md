@@ -1,9 +1,7 @@
-# Hi, I'm Savilla Tifania Mahadewi 👋
+# Hi, I'm Savilla Tifania Mahadewi 
 
 ### 🚀 Technical Project Manager & Full-Stack Developer
 I am a **Bachelor of Applied Science** graduate from **Politeknik Elektronika Negeri Surabaya**. I bridge the gap between technical engineering, creative design, and strategic management. Currently, I am pivoting my focus towards **Full-Stack Web Development** 
-
----
 
 ## 🛠️ Skills & Expertise
 
@@ -14,36 +12,25 @@ I am a **Bachelor of Applied Science** graduate from **Politeknik Elektronika Ne
 | **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![UI/UX](https://img.shields.io/badge/-UI/UX-FF61F6?style=flat) ![Narrative Design](https://img.shields.io/badge/-Narrative_Design-blue?style=flat) |
 | **Principles** | `Clean Architecture` `TDD` `Stakeholder Management` `Systematic Thinking` |
 
----
 
 ## 🌟 Highlighted Projects
 
 ### 💻 Web & Software Development
-* **One Hub Web App (In Progress):** A personal productivity hub featuring daily logs, to-do lists, and an integrated portfolio, built to master PostgreSQL and back-end logic.
-* **Laboratory Simulator:** Managed the production of 15 virtual laboratory simulations for the Ministry of Education, ensuring high technical accuracy and user engagement.
+* **AlignMe (In Progress):** A personal productivity hub featuring daily logs, to-do lists, and an integrated portfolio, built to master PostgreSQL and back-end logic.
 
 ### 🎮 Game Development
-* **Project Nevernight:** A 2D narrative puzzle game featuring complex branching dialogue logic and character attribute systems. [View on Itch.io](https://zzero-hour.itch.io)
-* **AlgoSibo:** Refactored a 3D puzzle game using **Clean Architecture** to ensure code scalability and maintainability.
-
----
+* **Project Nevernight:** A 2D narrative puzzle game featuring complex branching dialogue logic and character attribute systems.
+  [View on Itch.io](https://zzero-hour.itch.io)
 
 ## 📈 Leadership & Impact
-* **Project Manager:** Led a team of 20+ members to deliver government-funded research projects with 100% on-time completion.
+* **Project Manager:** Led a team of 20+ members to deliver government-funded research projects with 100% completion.
 * **Head of Committee:** Orchestrated national-scale events and student orientation programs for over 100+ committee members.
 * **Mentor & Speaker:** Facilitated leadership workshops and mentored students in technical subjects, fostering the next generation of tech talent.
 
----
-
-## 📊 GitHub Stats
-![Savilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=faniasv&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faniasv&layout=compact&theme=radical)
-
----
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/faniasv/)
 [![Portfolio](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white)](https://zzero-hour.itch.io)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:reival.exe@gmail.com)
+[![Mail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:reival.exe@gmail.com)
 
 > *"I believe that great software is built at the intersection of robust logic and human-centered design."*
