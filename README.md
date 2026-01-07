@@ -20,7 +20,7 @@ I am a **Bachelor of Applied Science** graduate from **Politeknik Elektronika Ne
 * **InvestWise:** A modern, responsive web application designed to help users make smarter financial decisions using the SMART Method.
 
 ### 🎮 Game Development
-* **Project Nevernight (In Progress):** A 2D narrative puzzle game featuring complex branching dialogue logic and puzzle systems. [View on Itch.io](https://zzero-hour.itch.io)
+* **Project Nevernight (In Progress):** A 2D narrative puzzle game featuring complex branching dialogue logic and puzzle systems.
 
 ## 📈 Leadership & Impact
 * **Project Manager:** Led a team of 20+ members to deliver government-funded research projects with 100% completion.
