@@ -1,7 +1,7 @@
 # Hi, I'm Savilla Tifania Mahadewi 
 
 ### 🚀 Technical Project Manager & Full-Stack Developer
-I am a **Bachelor of Applied Science** graduate from **Politeknik Elektronika Negeri Surabaya**. I bridge the gap between technical engineering, creative design, and strategic management. Currently, I am pivoting my focus towards **Full-Stack Web Development** 
+I am a student from **Politeknik Elektronika Negeri Surabaya**. I bridge the gap between technical engineering, creative design, and strategic management. Currently, I am pivoting my focus towards **Full-Stack Web Development** 
 
 ## 🛠️ Skills & Expertise
 
