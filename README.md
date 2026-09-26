@@ -1,7 +1,7 @@
 # Hi, I'm Savilla Tifania Mahadewi (Fania)
 
 ### 🚀 Technical Project Manager & Full-Stack Developer
-I am a student from **Politeknik Elektronika Negeri Surabaya**. I bridge the gap between technical engineering, creative design, and strategic management. Currently, I am pivoting my focus towards **Full-Stack Web Development** 
+I am a fresh graduate from **Politeknik Elektronika Negeri Surabaya**. I bridge the gap between technical engineering, creative design, and strategic management. Currently, I am pivoting my focus towards **Full-Stack Web Development** 
 
 ## 🛠️ Skills & Expertise
 
@@ -16,6 +16,7 @@ I am a student from **Politeknik Elektronika Negeri Surabaya**. I bridge the gap
 ## 🌟 Highlighted Projects
 
 ### 💻 Web & Software Development
+* **LunaBite:** AI-based nutrition guide to relieve menstruation cycle symptoms, one step at a time.
 * **AlignMe (In Progress):** A personal productivity hub featuring daily logs, to-do lists, and an integrated portfolio, built to master PostgreSQL and back-end logic.
 * **InvestWise:** A modern, responsive web application designed to help users make smarter financial decisions using the SMART Method.
 
