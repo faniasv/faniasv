@@ -8,7 +8,7 @@ I am a fresh graduate from **Politeknik Elektronika Negeri Surabaya**. I bridge 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Management** | ![Agile](https://img.shields.io/badge/-Agile-333333?style=flat&logo=agile) ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrumalliance) ![Waterfall](https://img.shields.io/badge/-Waterfall-333333) |
-| **Development** | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Development** | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
 | **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![UI/UX](https://img.shields.io/badge/-UI/UX-FF61F6?style=flat) ![Narrative Design](https://img.shields.io/badge/-Narrative_Design-blue?style=flat) |
 | **Principles** | `Clean Architecture` `TDD` `Stakeholder Management` `Systematic Thinking` |
 
@@ -17,7 +17,7 @@ I am a fresh graduate from **Politeknik Elektronika Negeri Surabaya**. I bridge 
 
 ### 💻 Web & Software Development
 * **LunaBite:** AI-based nutrition guide to relieve menstruation cycle symptoms, one step at a time.
-* **AlignMe (In Progress):** A personal productivity hub featuring daily logs, to-do lists, and an integrated portfolio, built to master PostgreSQL and back-end logic.
+* **AlignMe:** A personal productivity hub featuring daily logs, to-do lists, and an integrated portfolio, built to master PostgreSQL and back-end logic.
 * **InvestWise:** A modern, responsive web application designed to help users make smarter financial decisions using the SMART Method.
 
 ### 🎮 Game Development
